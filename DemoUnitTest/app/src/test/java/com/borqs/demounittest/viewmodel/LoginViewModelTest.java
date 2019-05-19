@@ -21,7 +21,6 @@ import org.powermock.modules.junit4.PowerMockRunner;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(PowerMockRunner.class)
-@PrepareForTest({TextUtils.class, Patterns.class})
 public class LoginViewModelTest {
 
     @InjectMocks

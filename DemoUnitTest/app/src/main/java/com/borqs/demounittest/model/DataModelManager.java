@@ -12,4 +12,8 @@ public class DataModelManager {
         return mSharedPreferenceUtility.writeUserDataToPref(user);
     }
 
+    public boolean isUserLoggedIn() {
+        return mSharedPreferenceUtility.isUserLoggedin();
+    }
+
 }

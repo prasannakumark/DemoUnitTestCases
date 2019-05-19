@@ -8,13 +8,14 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
+import org.mockito.junit.MockitoJUnitRunner;
 import org.powermock.modules.junit4.PowerMockRunner;
 
 import static com.borqs.demounittest.model.SharedPreferenceUtility.KEY_EMAIL;
 import static com.borqs.demounittest.model.SharedPreferenceUtility.KEY_PASSWORD;
 import static org.junit.Assert.*;
 
-@RunWith(PowerMockRunner.class)
+@RunWith(MockitoJUnitRunner.class)
 public class SharedPreferenceUtilityTest {
 
     @InjectMocks

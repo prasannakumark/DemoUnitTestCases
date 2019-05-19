@@ -21,10 +21,14 @@
             android:layout_margin="8dp"
             android:orientation="vertical">
 
-            <TextView
+            <EditText
                 android:id="@+id/inEmail"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:afterTextChanged="@{(editable)->viewModel.afterEmailTextChanged(editable)}"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:padding="8dp" />
 
         </LinearLayout>
 

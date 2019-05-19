@@ -9,7 +9,36 @@ public class HomePageViewModel extends BaseObservable {
 
     private final DataModelManager mDataModelManager;
 
+    private CallBack mCallBacks;
+
+    public interface CallBack {
+        public void startLoginActivity();
+    }
+
     public HomePageViewModel(@NonNull final DataModelManager dataModelManager) {
         mDataModelManager = dataModelManager;
     }
+
+    public void setCallBacks(CallBack callBacks) {
+        this.mCallBacks = callBacks;
+    }
+
+    public void isUserLogedIn() {
+        boolean isUserLoggedIn = mDataModelManager.isUserLoggedIn();
+        if(isUserLoggedIn) {
+            System.out.println("User logged in");
+        } else {
+            if(mCallBacks == null) {
+                throw new IllegalStateException("Callbacks must not be null");
+            } else {
+                mCallBacks.startLoginActivity();
+            }
+        }
+    }
+
+    public void afterEmailTextChanged(CharSequence s) {
+        System.out.println("User logged in");
+    }
+
+
 }

@@ -37,4 +37,10 @@ public class SharedPreferenceUtility {
     public Object getStringKeyValue(String key) {
         return sharedPreferences.getString(key, null);
     }
+
+    public boolean isUserLoggedin() {
+        String email = sharedPreferences.getString(KEY_EMAIL, null);
+        String password = sharedPreferences.getString(KEY_PASSWORD,null);
+        return email != null && password !=null;
+    }
 }
