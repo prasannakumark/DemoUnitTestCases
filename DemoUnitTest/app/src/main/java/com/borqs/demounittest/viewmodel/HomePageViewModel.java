@@ -26,6 +26,7 @@ public class HomePageViewModel extends BaseObservable {
     public void isUserLogedIn() {
         boolean isUserLoggedIn = mDataModelManager.isUserLoggedIn();
         if(isUserLoggedIn) {
+            userLoggedInSuccessFully("User login success");
             System.out.println("User logged in");
         } else {
             if(mCallBacks == null) {
@@ -36,7 +37,7 @@ public class HomePageViewModel extends BaseObservable {
         }
     }
 
-    public void afterEmailTextChanged(CharSequence s) {
+    public void userLoggedInSuccessFully(CharSequence s) {
         System.out.println("User logged in");
     }
 

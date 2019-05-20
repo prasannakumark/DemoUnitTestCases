@@ -25,7 +25,7 @@
                 android:id="@+id/inEmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:afterTextChanged="@{(editable)->viewModel.afterEmailTextChanged(editable)}"
+                android:afterTextChanged="@{(editable)->viewModel.userLoggedInSuccessFully(editable)}"
                 android:hint="Email"
                 android:inputType="textEmailAddress"
                 android:padding="8dp" />
