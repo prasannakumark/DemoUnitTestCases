@@ -15,12 +15,14 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
+import org.powermock.api.mockito.PowerMockito;
 import org.powermock.core.classloader.annotations.PrepareForTest;
 import org.powermock.modules.junit4.PowerMockRunner;
 
 import static org.junit.Assert.assertEquals;
 
 @RunWith(PowerMockRunner.class)
+@PrepareForTest({TextUtils.class, Patterns.class})
 public class LoginViewModelTest {
 
     @InjectMocks
@@ -45,7 +47,9 @@ public class LoginViewModelTest {
     LoginViewModel.CallBack mockCallBack;
 
     @Before
-    public void setUp() throws Exception {}
+    public void setUp() throws Exception {
+        PowerMockito.mockStatic(TextUtils.class);
+    }
 
     @Test
     public void shouldShowErrorMessageWhenEmailIdOrPasswordWrong() {
