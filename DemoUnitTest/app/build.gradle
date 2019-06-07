@@ -35,7 +35,10 @@ dependencies {
 
     //architectural compoments
     implementation "android.arch.lifecycle:extensions:$rootProject.archLifecycleVersion"
+    implementation 'com.android.support:design:28.0.0'
     annotationProcessor "android.arch.lifecycle:compiler:$rootProject.archLifecycleVersion"
+
+    testImplementation 'pl.pragmatists:JUnitParams:1.0.4'
 
     testImplementation "junit:junit:4.12"
     testImplementation "org.mockito:mockito-core:2.15.0"
@@ -49,5 +52,3 @@ dependencies {
     androidTestImplementation "com.android.support.test.espresso:espresso-core:$rootProject.espressoVersion"
     androidTestImplementation "com.android.support.test.espresso:espresso-intents:$rootProject.espressoVersion"
 }
-
-
