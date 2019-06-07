@@ -7,5 +7,40 @@
     android:orientation="vertical"
     tools:context=".view.CalculatorActivity">
 
+    <EditText
+        android:id="@+id/edt_first_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="First Value" />
 
+    <EditText
+        android:id="@+id/edt_second_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="Second Value" />
+
+    <Button
+        android:id="@+id/btn_addition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADDITIONS" />
+
+    <Button
+        android:id="@+id/btn_subtraction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SUBTRACTION" />
+
+    <TextView
+        android:id="@+id/txt_displaytext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textColor="@android:color/holo_red_dark"
+        android:text="Display Text" />
 </LinearLayout>

@@ -3,11 +3,6 @@ package com.borqs.demounittest.junittest;
 public class Calculator {
 
     public int add(int firstValue,int secondValue) {
-        try {
-            Thread.sleep(50);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
         return (firstValue + secondValue);
     }
 
