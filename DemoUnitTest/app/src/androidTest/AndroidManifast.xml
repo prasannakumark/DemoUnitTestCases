@@ -7,7 +7,7 @@
 
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
-        android:targetPackage="com.borqs.demounittest"/>
+    android:targetPackage="com.borqs.demounittest"/>
 
     <application tools:replace="label" android:label="ExpressoTest" />
 </manifest>

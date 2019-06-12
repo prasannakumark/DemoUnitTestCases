@@ -30,4 +30,6 @@ ext {
     archLifecycleVersion = '1.1.1'
     mockitoVersion = '2.15.0'
     espressoVersion = '3.0.2'
+    extJUnitVersion = "1.1.1"
+    extTruthVersion = "1.2.0"
 }
