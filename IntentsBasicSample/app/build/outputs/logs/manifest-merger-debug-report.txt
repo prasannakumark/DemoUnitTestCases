@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/db37687ee0691698b044198045b41995/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9e03739a21467b10ed078f7e72c3028f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/109636b249b589fa112697b4e55814aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc76049f643530b4df80577ef33ad760/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/6dfc2d493a14627bb862c3037e3d9202/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a271f96db47053dacd06a98ad4e2ecaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/684dd53eaf886f94da1633ce55b331c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b06784b3bb7700f782c0e0866201ce4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bc1dbdfa472090e3de6acefb628e86a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/4eabdc52442ed89c0741c3ff3a4f7c08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f51e41e33e9fb9e05e10af01b87254dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d9f76d488e1bc1e7fc54e3e77d70579/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9e74f39d6fb66905dca4297fa41c4a83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/fb80a98b137f887b326ca41653232b52/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0008329a7a920de31657d0041f3676c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c597e39958df90ec91b2a71965ae4f99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ef35da1ea799f817a6d96fceb70bcc9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/afc77530b850629374ad4dc6d3050455/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e8b2cd7479648b20520bb7416adec34d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/637824bed1697a5195e0bac386ba4dd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/8858622429a83e80b416408309aec68e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e13e278175c0623950e1d6b1502b6c92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a20756bed8638dabac1d692563ece30a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9f14dcffb985b61754b74480df5a235f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:19:11-76
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:21:22-66
+application
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:23:5-39:19
+MERGED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/fb80a98b137f887b326ca41653232b52/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/fb80a98b137f887b326ca41653232b52/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:25:13-45
+	android:icon
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:24:13-49
+	android:theme
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.example.android.testing.espresso.IntentsBasicSample.DialerActivity
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:29:17-49
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:28:17-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.android.testing.espresso.IntentsBasicSample.ContactsActivity
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:35:9-37:51
+	android:label
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:37:17-49
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml:36:17-49
+uses-sdk
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/db37687ee0691698b044198045b41995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/db37687ee0691698b044198045b41995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9e03739a21467b10ed078f7e72c3028f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/9e03739a21467b10ed078f7e72c3028f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/109636b249b589fa112697b4e55814aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/109636b249b589fa112697b4e55814aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc76049f643530b4df80577ef33ad760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/dc76049f643530b4df80577ef33ad760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/6dfc2d493a14627bb862c3037e3d9202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/6dfc2d493a14627bb862c3037e3d9202/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a271f96db47053dacd06a98ad4e2ecaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a271f96db47053dacd06a98ad4e2ecaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/684dd53eaf886f94da1633ce55b331c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/684dd53eaf886f94da1633ce55b331c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b06784b3bb7700f782c0e0866201ce4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b06784b3bb7700f782c0e0866201ce4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bc1dbdfa472090e3de6acefb628e86a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/bc1dbdfa472090e3de6acefb628e86a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/4eabdc52442ed89c0741c3ff3a4f7c08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/4eabdc52442ed89c0741c3ff3a4f7c08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f51e41e33e9fb9e05e10af01b87254dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f51e41e33e9fb9e05e10af01b87254dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d9f76d488e1bc1e7fc54e3e77d70579/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d9f76d488e1bc1e7fc54e3e77d70579/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9e74f39d6fb66905dca4297fa41c4a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9e74f39d6fb66905dca4297fa41c4a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/fa19eeab3d241e8c94ef24d6038b511c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/fb80a98b137f887b326ca41653232b52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/fb80a98b137f887b326ca41653232b52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0008329a7a920de31657d0041f3676c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/0008329a7a920de31657d0041f3676c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c597e39958df90ec91b2a71965ae4f99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/c597e39958df90ec91b2a71965ae4f99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ef35da1ea799f817a6d96fceb70bcc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ef35da1ea799f817a6d96fceb70bcc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/afc77530b850629374ad4dc6d3050455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/afc77530b850629374ad4dc6d3050455/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e8b2cd7479648b20520bb7416adec34d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/e8b2cd7479648b20520bb7416adec34d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/637824bed1697a5195e0bac386ba4dd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/637824bed1697a5195e0bac386ba4dd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/8858622429a83e80b416408309aec68e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/8858622429a83e80b416408309aec68e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e13e278175c0623950e1d6b1502b6c92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e13e278175c0623950e1d6b1502b6c92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a20756bed8638dabac1d692563ece30a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a20756bed8638dabac1d692563ece30a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9f14dcffb985b61754b74480df5a235f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/prasanna/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9f14dcffb985b61754b74480df5a235f/AndroidManifest.xml:20:5-44
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsBasicSample/app/src/main/AndroidManifest.xml

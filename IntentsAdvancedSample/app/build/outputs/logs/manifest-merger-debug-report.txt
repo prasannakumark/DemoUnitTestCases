@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:11-80
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:19:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:21:5-23:34
+	android:required
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:22:9-47
+application
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.testing.espresso.intents.AdvancedSample.ImageViewerActivity
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:30:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prasanna/AndroidProjects/android-testing/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
